@@ -1,6 +1,6 @@
 ## Welcome To Student Management System
 
-Y
+The Objective of this projet is to Store Student Information And reterieve them.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
